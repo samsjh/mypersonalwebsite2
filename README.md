@@ -1,2 +1,2 @@
 # mypersonalwebsite2
-Personal website this time including CSS
+Personal website this time using HTML and CSS
